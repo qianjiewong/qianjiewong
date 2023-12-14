@@ -1,4 +1,4 @@
-[![MasterHead]![dejgh1b-5ca2e0a5-b11e-4850-811a-be47426058b2](https://github.com/qianjiewong/qianjiewong/assets/107874673/bf931143-8162-47b0-828b-2ae7d06b3c2f)]
+[dejgh1b-5ca2e0a5-b11e-4850-811a-be47426058b2](https://github.com/qianjiewong/qianjiewong/assets/107874673/bf931143-8162-47b0-828b-2ae7d06b3c2f)
 <h1 align="center">Hi, I'm qianjie 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_me88wmkDVh1rrsa2po1_500.gif">
 

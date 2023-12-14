@@ -1,6 +1,5 @@
 [![MasterHead](file:///C:/Users/User/Downloads/dejgh1b-5ca2e0a5-b11e-4850-811a-be47426058b2.gif)]
 <h1 align="center">Hi, I'm qianjie 👋</h1>
-<h3 align="center">Love exploring new things</h3>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_me88wmkDVh1rrsa2po1_500.gif">
 
 - 🔭 I’m currently working on **portfolio**

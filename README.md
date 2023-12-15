@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on **portfolio** 
 
-- 🌱 I’m currently learning **HTLM**
+- ✨ I’m currently learning **HTLM**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-one-livid-20.vercel.app/](https://portfolio-one-livid-20.vercel.app/)
 
-- 📫 How to reach me **qianjiewong@gmail.com**
+- ✉️ How to reach me **qianjiewong@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/18gjP4uAHAPTR5t1vCCgAxwxtPfoITt9R/view?usp=sharing](https://drive.google.com/file/d/18gjP4uAHAPTR5t1vCCgAxwxtPfoITt9R/view?usp=sharing)
 

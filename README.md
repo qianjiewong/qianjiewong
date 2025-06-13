@@ -2,10 +2,6 @@
 <h1 align="center">Hi, I'm qianjie 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_me88wmkDVh1rrsa2po1_500.gif">
 
-- 🔭 I’m currently working on **portfolio** 
-
-- ✨ I’m currently learning **HTLM**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-one-livid-20.vercel.app/](https://portfolio-one-livid-20.vercel.app/)
 
 - ✉️ How to reach me **qianjiewong@gmail.com**

@@ -2,11 +2,7 @@
 <h1 align="center">Hi, I'm qianjie 👋</h1>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/tumblr_me88wmkDVh1rrsa2po1_500.gif">
 
-- 👨‍💻 All of my projects are available at [https://portfolio-one-livid-20.vercel.app/](https://portfolio-one-livid-20.vercel.app/)
-
 - ✉️ How to reach me **qianjiewong@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/18gjP4uAHAPTR5t1vCCgAxwxtPfoITt9R/view?usp=sharing](https://drive.google.com/file/d/18gjP4uAHAPTR5t1vCCgAxwxtPfoITt9R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
